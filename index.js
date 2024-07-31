@@ -1,1 +1,1 @@
-consolo log("Thiago")
+console.log("Meu primeiro projeto");
